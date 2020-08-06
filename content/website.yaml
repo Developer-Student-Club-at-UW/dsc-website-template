@@ -1,10 +1,10 @@
-- title: 'Developer Student Club'
+- title: 'Developer Student Club at UW'
   description: 'Developer Student Clubs(DSC) is a Google Developers program for university students to acquire technical skills and solve problems'
-  university: 'UniversityName'
+  university: 'University of Washington Seattle'
   register: 'https://www.google.it/intl/it/forms/about/'
   lang: 'en'
   calendar: '#'
-  mail: 'example@example.com'
+  mail: 'dscatuw@gmail.com'
   social:
     youtube: 'https://youtube.com'
     github: 'https://github.com'
